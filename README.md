@@ -43,11 +43,11 @@ Cloud Storage.
 
 ## Implementazione:
 
-[![Implementazione](https://img.shields.io/badge/Implementazione-limegreen?style=for-the-badge&logo=lovable&logoColor=white)](https://society-sync-platform.lovable.app)
+[![Implementazione](https://img.shields.io/badge/Implementazione-limegreen?style=for-the-badge&logo=rocket&logoColor=white)](https://society-sync-platform.lovable.app)
 
 ## Elevator Pitch:
 
-[![Elevator Pitch](https://img.shields.io/badge/Elevator_Pitch-limegreen?style=for-the-badge&logo=telegraph&logoColor=white)](https://telegra.ph/Elevator-Pitch---MySociety-02-09)
+[![Elevator Pitch](https://img.shields.io/badge/Elevator_Pitch-limegreen?style=for-the-badge&logo=youtube&logoColor=white)](https://telegra.ph/Elevator-Pitch---MySociety-02-09)
 
 ##  WBS (Work Breakdown Structure)
 Pianificazione dettagliata delle fasi di sviluppo e relativi costi:
