@@ -34,7 +34,8 @@ Cloud Storage.
 
 
 # Competitors:
-<img width="807" height="325" alt="immagine" src="https://github.com/user-attachments/assets/86bc102e-dac2-4415-8b38-d2406ec006ff" />
+<img width="1305" height="299" alt="immagine" src="https://github.com/user-attachments/assets/3572de75-d153-424e-ae63-d5ca2a2d3677" />
+
 
 # Use Case Diagram:
 
