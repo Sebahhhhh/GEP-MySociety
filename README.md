@@ -28,7 +28,6 @@ Cloud Storage.
   
 # Requisiti: 
 
-[![Requisiti](https://img.shields.io/badge/Requisiti-limegreen?style=for-the-badge&logo=file-text&logoColor=white)](https://docs.google.com/document/d/1xWKr9zPorj-nm3MxhnGaykbhv_UhUK95PsWAqKO3TZ0/edit?usp=sharing)
 [![Requisiti](https://img.shields.io/badge/Requisiti-limegreen?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1xWKr9zPorj-nm3MxhnGaykbhv_UhUK95PsWAqKO3TZ0/edit?usp=sharing)
 
 
@@ -38,16 +37,17 @@ Cloud Storage.
 
 # Use Case Diagram:
 
-[![Use_Case_Diagram](https://img.shields.io/badge/Use_Case_Diagram-limegreen?style=for-the-badge&logo=file-text&logoColor=white)](https://yuml.me/69b9d2e2.svg)
+[![Use Case Diagram](https://img.shields.io/badge/Use_Case_Diagram-limegreen?style=for-the-badge&logo=diagrams.net&logoColor=white)](https://yuml.me/69b9d2e2.svg)
+
 
 
 ## Implementazione:
 
-[![Implementazione](https://img.shields.io/badge/Implementazione-limegreen?style=for-the-badge&logo=code&logoColor=white)](https://society-sync-platform.lovable.app)
+[![Implementazione](https://img.shields.io/badge/Implementazione-limegreen?style=for-the-badge&logo=lovable&logoColor=white)](https://society-sync-platform.lovable.app)
 
 ## Elevator Pitch:
 
-[![Elevator Pitch](https://img.shields.io/badge/Elevator_Pitch-limegreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://telegra.ph/Elevator-Pitch---MySociety-02-09)
+[![Elevator Pitch](https://img.shields.io/badge/Elevator_Pitch-limegreen?style=for-the-badge&logo=telegraph&logoColor=white)](https://telegra.ph/Elevator-Pitch---MySociety-02-09)
 
 ##  WBS (Work Breakdown Structure)
 Pianificazione dettagliata delle fasi di sviluppo e relativi costi:
