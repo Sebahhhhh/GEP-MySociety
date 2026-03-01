@@ -49,27 +49,42 @@ Cloud Storage.
 
 [![Elevator Pitch](https://img.shields.io/badge/Elevator_Pitch-limegreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://telegra.ph/Elevator-Pitch---MySociety-02-09)
 
-## WBS   
-**1.0 PIANIFICAZIONE (1 sett.)**  
-   ‎ &nbsp;‎ &nbsp;  1.1 Requisiti + Use Case  
-   ‎ &nbsp;‎ &nbsp;  1.2 Diagramma Gantt + Risorse  
-   ‎ ‎&nbsp; &nbsp;  1.3 Deliverable: Piano completo Progetto  
-**2.0 DESIGN (2 sett.)**  
-   ‎ &nbsp;‎ &nbsp;  2.1 Database   
-  ‎ ‎&nbsp;  &nbsp;  2.2 Flusso Utente   
-  ‎ ‎ &nbsp; &nbsp;  2.3 Deliverable: Prototipo UI/UX (con figma)  
-**3.0 SVILUPPO (5 sett.)**  
-   ‎ &nbsp;‎ &nbsp;  3.1 Backend   
-   ‎ ‎ &nbsp; &nbsp; 3.2 Frontend Mobile  
-   ‎ ‎ &nbsp; &nbsp; 3.3 Integrazioni (pagamenti, notifiche)  
-  ‎ ‎  &nbsp; &nbsp;3.4 Deliverable: MVP (Prodotto Minimo Funzionante)  
-**4.0 TEST + LANCIO (2 sett.)**  
-    &nbsp;‎ ‎ &nbsp; 4.1 Test Unitari + Integraziㅤone  
-    ‎&nbsp; ‎&nbsp;  4.2 Beta Testing + Bug Fix  
-    ‎ &nbsp;‎ &nbsp; 4.3 Deploy App Store + Dominio  
-   ‎ ‎ &nbsp; &nbsp; 4.4 Deliverable: App Live  
-**5.0 CHIUSURA**  
-   &nbsp;‎ ‎ &nbsp;  5.1 Pubblicità
+## 🗂️ WBS (Work Breakdown Structure)
+Pianificazione dettagliata delle fasi di sviluppo e relativi costi:
+```mermaid
+graph TD
+    A["🚀 Progetto"] --> B["1.0 🗂️ PIANIFICAZIONE\n1 settimana"]
+    A --> C["2.0 🎨 DESIGN\n2 settimane"]
+    A --> D["3.0 ⚙️ SVILUPPO\n5 settimane"]
+    A --> E["4.0 🧪 TEST + LANCIO\n2 settimane"]
+    A --> F["5.0 🏁 CHIUSURA"]
+
+    B --> B1["1.1 Requisiti\n+ Use Case"]
+    B --> B2["1.2 Diagramma\nGantt + Risorse"]
+    B --> B3["📦 1.3 Deliverable\nPiano completo"]
+
+    C --> C1["2.1 Database"]
+    C --> C2["2.2 Flusso Utente"]
+    C --> C3["📦 2.3 Deliverable\nPrototipo UI/UX\nFigma"]
+
+    D --> D1["3.1 Backend"]
+    D --> D2["3.2 Frontend\nMobile"]
+    D --> D3["3.3 Integrazioni\npagamenti, notifiche"]
+    D --> D4["📦 3.4 Deliverable\nMVP"]
+
+    E --> E1["4.1 Test Unitari\n+ Integrazione"]
+    E --> E2["4.2 Beta Testing\n+ Bug Fix"]
+    E --> E3["4.3 Deploy\nApp Store + Dominio"]
+    E --> E4["📦 4.4 Deliverable\nApp Live"]
+
+    F --> F1["5.1 Pubblicità"]
+
+    style A fill:#4f46e5,color:#fff,stroke:#4f46e5
+    style B3 fill:#065f46,color:#fff,stroke:#065f46
+    style C3 fill:#065f46,color:#fff,stroke:#065f46
+    style D4 fill:#065f46,color:#fff,stroke:#065f46
+    style E4 fill:#065f46,color:#fff,stroke:#065f46
+```
    
 ## Cronoprogramma 
 
