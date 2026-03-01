@@ -40,7 +40,7 @@ Cloud Storage.
 # Use Case Diagram:
 
 [![Use_Case_Diagram](https://img.shields.io/badge/Use_Case_Diagram-limegreen?style=for-the-badge&logo=file-text&logoColor=white)](https://yuml.me/69b9d2e2.svg)
-<img width="2075" height="1273" alt="69b9d2e2" src="https://github.com/user-attachments/assets/0ee68ed4-4b68-4494-a6fb-8a0624115682" />
+
 
 ## Implementazione:
 
