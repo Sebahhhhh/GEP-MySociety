@@ -29,7 +29,7 @@ Cloud Storage.
 # Requisiti: 
 
 [![Requisiti](https://img.shields.io/badge/Requisiti-limegreen?style=for-the-badge&logo=file-text&logoColor=white)](https://docs.google.com/document/d/1xWKr9zPorj-nm3MxhnGaykbhv_UhUK95PsWAqKO3TZ0/edit?usp=sharing)
-
+[![Requisiti](https://img.shields.io/badge/Requisiti-limegreen?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1xWKr9zPorj-nm3MxhnGaykbhv_UhUK95PsWAqKO3TZ0/edit?usp=sharing)
 
 
 # Competitors:
