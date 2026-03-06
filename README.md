@@ -39,7 +39,34 @@ Cloud Storage.
 
 [![Use Case Diagram](https://img.shields.io/badge/Use_Case_Diagram-limegreen?style=for-the-badge&logo=diagrams.net&logoColor=white)](https://yuml.me/69b9d2e2.svg)
 
+## User Story:
 
+| **Attore (Come...)** | **Requisito / Azione (Voglio...)** | **Beneficio (In modo da...)** |
+| --- | --- | --- |
+| Utente | registrarmi alla piattaforma | creare un account e accedere ai servizi dell'app |
+| Utente | effettuare il login | accedere al mio profilo e alle funzionalità riservate |
+| Utente | recuperare la password | ripristinare l'accesso in caso di smarrimento |
+| Utente | gestire il mio profilo | aggiornare i dati personali e le preferenze |
+| Utente | iscrivermi a una società tramite codice o link | entrare a far parte di un'associazione in modo semplice e rapido |
+| Utente | visualizzare la bacheca digitale della società | leggere avvisi e comunicazioni ufficiali del gruppo |
+| Utente | consultare il calendario eventi della società | conoscere riunioni, attività e appuntamenti programmati |
+| Utente | visualizzare i ruoli degli altri iscritti | sapere chi svolge quale funzione all'interno della società |
+| Utente | essere iscritto a più società contemporaneamente | gestire tutti i miei gruppi in un'unica applicazione |
+| Utente | ricevere notifiche push dagli amministratori | restare aggiornato in tempo reale sulle novità del gruppo |
+| Utente | visualizzare lo stato delle mie quote associative | sapere quali pagamenti ho effettuato e quali sono in scadenza |
+| Amministratore | effettuare il login con privilegi di gestione | accedere al pannello amministrativo della società |
+| Amministratore | creare e configurare una nuova società | avviare e personalizzare la struttura della mia associazione |
+| Amministratore | aggiungere e rimuovere membri dalla società | mantenere aggiornato l'elenco degli iscritti |
+| Amministratore | creare sottosezioni o sottosocietà interne | organizzare squadre o gruppi distinti all'interno della stessa associazione |
+| Amministratore | assegnare ruoli e permessi personalizzati ai membri | definire chi può accedere a quali funzionalità |
+| Amministratore | pubblicare annunci sulla bacheca | comunicare notizie e avvisi ufficiali a tutti i soci |
+| Amministratore | inviare comunicazioni a tutte le sottosocietà collegate | garantire una comunicazione coerente lungo tutta la struttura |
+| Amministratore | creare e gestire eventi nel calendario | pianificare attività, riunioni e appuntamenti del gruppo |
+| Amministratore | gestire le quote associative degli iscritti | tenere traccia dei pagamenti e delle scadenze in tempo reale |
+| Amministratore | visualizzare report sui pagamenti | monitorare lo stato finanziario dell'associazione |
+| Amministratore → Sistema Pagamenti | configurare e gestire le quote associative | automatizzare la raccolta e il monitoraggio dei pagamenti |
+| Sistema | inviare notifiche automatiche per scadenze quote | avvisare i soci in anticipo sui pagamenti da effettuare |
+| Sistema | distribuire annunci generali a tutte le sottosocietà | garantire comunicazioni immediate e coerenti in tutta la catena organizzativa |
 
 ## Implementazione:
 
