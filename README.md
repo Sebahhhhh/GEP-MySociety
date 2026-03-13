@@ -64,8 +64,6 @@ Cloud Storage.
 | Amministratore | creare e gestire eventi nel calendario | pianificare attività, riunioni e appuntamenti del gruppo |
 | Amministratore | gestire le quote associative degli iscritti | tenere traccia dei pagamenti e delle scadenze in tempo reale |
 | Amministratore | visualizzare report sui pagamenti | monitorare lo stato finanziario dell'associazione |
-| Sistema | inviare notifiche automatiche per scadenze quote | avvisare i soci in anticipo sui pagamenti da effettuare |
-| Sistema | distribuire annunci generali a tutte le sottosocietà | garantire comunicazioni immediate e coerenti in tutta la catena organizzativa |
 
 ## Implementazione:
 
