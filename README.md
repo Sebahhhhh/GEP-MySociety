@@ -74,7 +74,7 @@ Cloud Storage.
 [![Elevator Pitch](https://img.shields.io/badge/Elevator_Pitch-limegreen?style=for-the-badge&logo=youtube&logoColor=white)](https://telegra.ph/Elevator-Pitch---MySociety-02-09)
 
 ##  WBS (Work Breakdown Structure)
-Pianificazione dettagliata delle fasi di sviluppo e relativi costi:
+Pianificazione dettagliata delle fasi di sviluppo:
 ```mermaid
 graph TD
     A[" Progetto"] --> B["1.0  PIANIFICAZIONE\n1 settimana"]
