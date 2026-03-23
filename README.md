@@ -120,6 +120,8 @@ Cloud Storage.
 
 ## Implementazione:
 [![Implementazione](https://img.shields.io/badge/Implementazione-limegreen?style=for-the-badge&logo=rocket&logoColor=white)](https://society-sync-platform.lovable.app)
+<img width="1781" height="753" alt="immagine" src="https://github.com/user-attachments/assets/8fa3eff0-ba07-4078-accd-0b58e2260fde" />
+
 
 ---
 
