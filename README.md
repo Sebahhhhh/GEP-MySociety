@@ -129,53 +129,45 @@ Cloud Storage.
 [![Elevator Pitch](https://img.shields.io/badge/Elevator_Pitch-limegreen?style=for-the-badge&logo=youtube&logoColor=white)](https://telegra.ph/Elevator-Pitch---MySociety-02-09)
 
 Elevator Pitch - MySociety
-Sebastiano Rocchi - CEOFebruary 09, 2026
-Il problema
 
+Il problema:
 Le associazioni, società sportive e non  in Italia gestiscono soci, quote, annunci e comunicazioni attraverso strumenti frammentati: fogli Excel, chat WhatsApp e documenti sparsi. Questo approccio genera inefficienze operative, perdita di dati critici e mancanza di trasparenza nella gestione.
-La soluzione
 
+La soluzione:
 mySociety è una piattaforma mobile che integra gestione soci, calcolo e promemoria quote associative, calendario eventi, bacheca, comunicazioni e molto altro. Un ecosistema digitale completo per amministrare al meglio la propria società/associazione.
 Un modo per gli associati di avere tutte le informazioni in maniera comoda e sempre aggiornata. 
-Market size
 
+Market size:
 In Italia operano oltre 80.000 ASD/SSD registrate, più decine di migliaia di associazioni culturali, musicali e di volontariato. 
 Un mercato da €100M+ annui ancora ancorato a processi manuali e inefficienti.
-Business model
 
+Business model:
 Modello SaaS (Software as a Service).                                             
 Abbonamenti Mensili/Annuali: Starter, Professional, Enterprise.
 
 
-Strategia di acquisizione clienti
-
+Strategia di acquisizione clienti:
 Il piano di acquisizione clienti si basa su tre canali principali:
 
 1. Partnership con associazioni locali
-
 Contatto diretto con associazioni sportive, culturali e di volontariato per presentare la piattaforma e offrire una prova gratuita.
 
 2. Marketing digitale mirato
-
  Campagne pubblicitarie su:
-
-    Facebook
-    Instagram
-    Google Ads
-
+   - Facebook
+   - Instagram
+   - Google Ads
+   - 
 3. Programma referral
-
  Le associazioni che utilizzano mySociety possono invitare altre società ricevendo sconti o mesi gratuiti di abbonamento.
-
-                        
-Competition
-
+                  
+Competition:
 Competitor come Golee, GeSoSport e weSpoort coprono esclusivamente il settore sportivo e molti di questi non sono neanche così ottimi. Inoltre non offrono prezzi agevolati per piccole società. mySociety si differenzia per target universale, con piani appositi per società più piccole con pochi associati e funzionalità avanzate con plugin personalizzati per società più grandi. 
-Perché noi
 
+Perché noi:
 Idea chiara con focus sulla fetta di mercato libero: catturiamo la fetta di piccole società che oggi usano solo WhatsApp e Excel, offrendo un'esperienza semplice ed economica per le società piccole, allo stesso tempo alternative con Plugin Personalizzati e piani Enterprise per Società e Associazioni piu grandi. 
-Richiesta
 
+Richiesta:
 Cerchiamo €100.000  in cambio del 15%  per completare sviluppo, noleggio web server, lancio commerciale (pubblicità) e acquisizione primi 1000 clienti entro 12 mesi.
 
 
