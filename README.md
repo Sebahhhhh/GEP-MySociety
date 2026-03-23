@@ -21,6 +21,7 @@ L’app centralizza tutto in un unico ambiente digitale accessibile da smartphon
 
 # Target: 
 Società e Associazioni di piccole, medie dimensioni. Soprattutto società sportive, ma utile anche a circoli e comitati e federazioni che hanno esigenze di gestire in maniera comoda quote, annunci, calendario ed eventi.
+
 ---
 # Tagline:
 "La Società sempre sotto il tuo controllo"
@@ -38,7 +39,6 @@ Cloud Storage.
 
   # Requisiti – mySociety
 [![Requisiti](https://img.shields.io/badge/Requisiti-limegreen?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1xWKr9zPorj-nm3MxhnGaykbhv_UhUK95PsWAqKO3TZ0/edit?usp=sharing)
-
 ## <span style="background:#E6F1FB;color:#0C447C;padding:3px 10px;border-radius:6px;font-size:13px;font-weight:500;">Funzionali</span> &nbsp; 
 > Funzionalità offerte agli utenti
 
