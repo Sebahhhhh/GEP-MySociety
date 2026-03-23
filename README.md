@@ -28,7 +28,7 @@ Cloud Storage.
   
 # Requisiti: 
 [![Requisiti](https://img.shields.io/badge/Requisiti-limegreen?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1xWKr9zPorj-nm3MxhnGaykbhv_UhUK95PsWAqKO3TZ0/edit?usp=sharing)
-### ✅ Requisiti Funzionali:
+### Requisiti Funzionali:
 Descrivono cosa fa il sistema, ovvero le funzionalità offerte.
 
 -Registrazione di singoli utenti con creazione di un'utenza personale.
@@ -45,7 +45,7 @@ Descrivono cosa fa il sistema, ovvero le funzionalità offerte.
 -Sottoscrizione di un abbonamento (mensile o annuale) per creare una società.
 Selezione del piano in base al numero di associati, sottosocietà e plugin.
 
-###⚙️ Requisiti Non Funzionali
+### Requisiti Non Funzionali
 Descrivono come il sistema deve funzionare: qualità, performance, usabilità.
 
 Usabilità: interfaccia semplice e intuitiva, adatta a utenti non tecnici.
@@ -55,7 +55,7 @@ Tempestività: aggiornamenti e comunicazioni disponibili in tempo reale.
 Organizzazione: gestione gerarchica e strutturata delle associazioni e dei loro sottogruppi.
 Affidabilità: tracciamento preciso di pagamenti e scadenze delle quote associative.
 
-###🏛️ Requisiti di Dominio
+### Requisiti di Dominio
 Descrivono regole e vincoli specifici del contesto applicativo (il mondo delle associazioni).
 
 Una società può essere di qualsiasi tipo: sportiva, culturale, scolastica, musicale, di volontariato, ecc.
