@@ -155,7 +155,7 @@ Contatto diretto con associazioni sportive, culturali e di volontariato per pres
    - Facebook
    - Instagram
    - Google Ads
-   - 
+     
 3. Programma referral
  Le associazioni che utilizzano mySociety possono invitare altre società ricevendo sconti o mesi gratuiti di abbonamento.
                   
