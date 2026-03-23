@@ -128,8 +128,6 @@ Cloud Storage.
 ## Elevator Pitch:
 [![Elevator Pitch](https://img.shields.io/badge/Elevator_Pitch-limegreen?style=for-the-badge&logo=youtube&logoColor=white)](https://telegra.ph/Elevator-Pitch---MySociety-02-09)
 
-Elevator Pitch - MySociety
-
 Il problema:
 Le associazioni, società sportive e non  in Italia gestiscono soci, quote, annunci e comunicazioni attraverso strumenti frammentati: fogli Excel, chat WhatsApp e documenti sparsi. Questo approccio genera inefficienze operative, perdita di dati critici e mancanza di trasparenza nella gestione.
 
