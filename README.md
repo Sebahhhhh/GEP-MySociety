@@ -29,8 +29,7 @@ Cloud Storage.
   # Requisiti – mySociety
 [![Requisiti](https://img.shields.io/badge/Requisiti-limegreen?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1xWKr9zPorj-nm3MxhnGaykbhv_UhUK95PsWAqKO3TZ0/edit?usp=sharing)
 
-## <span style="background:#E6F1FB;color:#0C447C;padding:3px 10px;border-radius:6px;font-size:13px;font-weight:500;">Funzionali</span> &nbsp; Cosa fa il sistema
-
+## <span style="background:#E6F1FB;color:#0C447C;padding:3px 10px;border-radius:6px;font-size:13px;font-weight:500;">Funzionali</span> &nbsp; 
 > Funzionalità offerte agli utenti
 
 -  Registrazione di singoli utenti con creazione di un'utenza personale
@@ -47,9 +46,7 @@ Cloud Storage.
 -  Sottoscrizione di abbonamento mensile o annuale per creare una società
 -  Selezione del piano in base a associati, sottosocietà e plugin
 
-
-## <span style="background:#EAF3DE;color:#27500A;padding:3px 10px;border-radius:6px;font-size:13px;font-weight:500;">Non Funzionali</span> &nbsp; Come funziona il sistema
-
+## <span style="background:#EAF3DE;color:#27500A;padding:3px 10px;border-radius:6px;font-size:13px;font-weight:500;">Non Funzionali</span> &nbsp; 
 > Qualità, performance, usabilità
 
 -  **Usabilità:** interfaccia semplice e intuitiva, adatta a utenti non tecnici
@@ -59,9 +56,7 @@ Cloud Storage.
 -  **Organizzazione:** gestione gerarchica e strutturata delle associazioni
 -  **Affidabilità:** tracciamento preciso di pagamenti e scadenze delle quote
 
-
 ## <span style="background:#EEEDFE;color:#3C3489;padding:3px 10px;border-radius:6px;font-size:13px;font-weight:500;">Di Dominio</span> &nbsp; Regole e vincoli del contesto
-
 > Specificità del mondo associativo
 
 -  Una società può essere di qualsiasi tipo: sportiva, culturale, scolastica, musicale, di volontariato, ecc.
@@ -72,47 +67,6 @@ Cloud Storage.
 -  Gli amministratori hanno poteri gestionali estesi non disponibili ai membri ordinari
 -  Le comunicazioni generali si propagano automaticamente alle sottosocietà
 -  La creazione di una società è vincolata alla sottoscrizione di un abbonamento a pagamento
-
-# Requisiti: 
-[![Requisiti](https://img.shields.io/badge/Requisiti-limegreen?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1xWKr9zPorj-nm3MxhnGaykbhv_UhUK95PsWAqKO3TZ0/edit?usp=sharing)
-### Requisiti Funzionali:
-Descrivono cosa fa il sistema, ovvero le funzionalità offerte.
-
--Registrazione di singoli utenti con creazione di un'utenza personale.
--Iscrizione a più società contemporaneamente tramite codice o link di invito.
--Visualizzazione della bacheca digitale con avvisi e comunicazioni ufficiali.
--Visualizzazione del calendario con eventi, riunioni e attività programmate.
--Pannello gestionale per amministratori per organizzare la struttura dell'associazione.
--Inserimento di nuovi membri da parte degli amministratori.
--Creazione di sottosezioni o sottosocietà autonome (es. squadre, gruppi interni).
--Impostazione di ruoli e permessi personalizzati per i membri.
--Invio di comunicazioni da parte degli amministratori.
--Gestione delle quote associative con tracciamento di pagamenti e scadenze.
--Diffusione automatica degli annunci generali verso tutte le sottosocietà collegate.
--Sottoscrizione di un abbonamento (mensile o annuale) per creare una società.
-Selezione del piano in base al numero di associati, sottosocietà e plugin.
-
-### Requisiti Non Funzionali
-Descrivono come il sistema deve funzionare: qualità, performance, usabilità.
-
-Usabilità: interfaccia semplice e intuitiva, adatta a utenti non tecnici.
-Portabilità: applicazione mobile (implica compatibilità con iOS e/o Android).
-Scalabilità: supporto a società di dimensioni variabili, con numero diverso di associati e sottosocietà.
-Tempestività: aggiornamenti e comunicazioni disponibili in tempo reale.
-Organizzazione: gestione gerarchica e strutturata delle associazioni e dei loro sottogruppi.
-Affidabilità: tracciamento preciso di pagamenti e scadenze delle quote associative.
-
-### Requisiti di Dominio
-Descrivono regole e vincoli specifici del contesto applicativo (il mondo delle associazioni).
-
-Una società può essere di qualsiasi tipo: sportiva, culturale, scolastica, musicale, di volontariato, ecc.
-Un utente può appartenere a più società contemporaneamente.
-L'accesso a una società avviene tramite codice o link di invito fornito dai responsabili.
-Ogni società può avere una struttura interna gerarchica con sottosocietà autonome.
-Esistono ruoli distinti all'interno di una società (es. membro, gestore/amministratore).
-Gli amministratori hanno poteri gestionali estesi non disponibili ai membri ordinari.
-Le comunicazioni degli annunci generali si propagano automaticamente alle sottosocietà.
-La creazione di una società è vincolata alla sottoscrizione di un abbonamento a pagamento.
 
 
 # Competitors:
