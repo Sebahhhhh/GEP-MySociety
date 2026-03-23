@@ -38,6 +38,9 @@ Cloud Storage.
 # Use Case Diagram:
 
 [![Use Case Diagram](https://img.shields.io/badge/Use_Case_Diagram-limegreen?style=for-the-badge&logo=diagrams.net&logoColor=white)](https://yuml.me/69b9d2e2.svg)
+<img width="1920" height="1086" alt="Screenshot 2026-03-23 at 17-44-28 " src="https://github.com/user-attachments/assets/27c41bba-413b-4692-bec8-0c7a0a8b4cf2" />
+
+
 
 ## User Story:
 
