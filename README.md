@@ -32,18 +32,18 @@ Società e Associazioni di piccole, medie dimensioni. Soprattutto società sport
 
 **Frontend Mobile:** <br>
    &nbsp; &nbsp; -Framework <br>
-   &nbsp;&nbsp;  -UI/UX <br>
+   &nbsp; &nbsp; -UI/UX <br>
 
 **Backend:** <br>
-  &nbsp;  &nbsp; -Runtime: Node.js <br>
-   &nbsp;  &nbsp; -Framework <br>
-  &nbsp;  &nbsp; -Architettura REST API scalabile <br>
+  &nbsp; &nbsp; -Runtime: Node.js <br>
+  &nbsp; &nbsp; -Framework <br>
+  &nbsp; &nbsp; -Architettura REST API scalabile <br>
 
 **Database:** <br>
-   &nbsp;  &nbsp; -MySQL <br>
+   &nbsp; &nbsp; -MySQL <br>
 
 **Autenticazione & Sicurezza:** <br>
-    &nbsp;&nbsp;  -Autenticazione JWT <br>
+    &nbsp; &nbsp; -Autenticazione JWT <br>
 
 **Cloud & Infrastruttura:** <br>
     &nbsp; &nbsp; -Cloud Provider: AWS / Google Cloud <br>
@@ -51,7 +51,7 @@ Società e Associazioni di piccole, medie dimensioni. Soprattutto società sport
     &nbsp; &nbsp; -Deploy Backend: Docker + servizi cloud (EC2 / Cloud Run) <br>
 
 **Integrazioni:** <br>
-    &nbsp;&nbsp;  -Pagamenti: Stripe <br>
+    &nbsp; &nbsp; -Pagamenti: Stripe <br>
 
 ---
 
