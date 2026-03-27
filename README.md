@@ -148,23 +148,23 @@ Società e Associazioni di piccole, medie dimensioni. Soprattutto società sport
 [![Elevator Pitch](https://img.shields.io/badge/Elevator_Pitch-limegreen?style=for-the-badge&logo=youtube&logoColor=white)](https://telegra.ph/Elevator-Pitch---MySociety-02-09)
 
 **Il problema:** <br>
-&nbsp; Le associazioni, società sportive e non  in Italia gestiscono soci, quote, annunci e comunicazioni attraverso strumenti frammentati: fogli Excel, chat WhatsApp e documenti sparsi. Questo approccio genera inefficienze operative, perdita di dati critici e mancanza di trasparenza nella gestione.
+Le associazioni, società sportive e non  in Italia gestiscono soci, quote, annunci e comunicazioni attraverso strumenti frammentati: fogli Excel, chat WhatsApp e documenti sparsi. Questo approccio genera inefficienze operative, perdita di dati critici e mancanza di trasparenza nella gestione.
 
 **La soluzione:** <br>
-&nbsp; mySociety è una piattaforma mobile che integra gestione soci, calcolo e promemoria quote associative, calendario eventi, bacheca, comunicazioni e molto altro. Un ecosistema digitale completo per amministrare al meglio la propria società/associazione.
+mySociety è una piattaforma mobile che integra gestione soci, calcolo e promemoria quote associative, calendario eventi, bacheca, comunicazioni e molto altro. Un ecosistema digitale completo per amministrare al meglio la propria società/associazione.
 Un modo per gli associati di avere tutte le informazioni in maniera comoda e sempre aggiornata. 
 
 **Market size:** <br>
-&nbsp; In Italia operano oltre 80.000 ASD/SSD registrate, più decine di migliaia di associazioni culturali, musicali e di volontariato. 
+In Italia operano oltre 80.000 ASD/SSD registrate, più decine di migliaia di associazioni culturali, musicali e di volontariato. 
 Un mercato da €100M+ annui ancora ancorato a processi manuali e inefficienti.
 
 **Business model:** <br>
-&nbsp; Modello SaaS (Software as a Service).                                             
+Modello SaaS (Software as a Service).                                             
 Abbonamenti Mensili/Annuali: Starter, Professional, Enterprise.
 
 
 **Strategia di acquisizione clienti:** <br>
-&nbsp; Il piano di acquisizione clienti si basa su tre canali principali:
+Il piano di acquisizione clienti si basa su tre canali principali:
 
 1. Partnership con associazioni locali 
 Contatto diretto con associazioni sportive, culturali e di volontariato per presentare la piattaforma e offrire una prova gratuita.
@@ -179,13 +179,13 @@ Contatto diretto con associazioni sportive, culturali e di volontariato per pres
  Le associazioni che utilizzano mySociety possono invitare altre società ricevendo sconti o mesi gratuiti di abbonamento.
                   
 **Competition:** <br>
-&nbsp; Competitor come Golee, GeSoSport e weSpoort coprono esclusivamente il settore sportivo e molti di questi non sono neanche così ottimi. Inoltre non offrono prezzi agevolati per piccole società. mySociety si differenzia per target universale, con piani appositi per società più piccole con pochi associati e funzionalità avanzate con plugin personalizzati per società più grandi. 
+Competitor come Golee, GeSoSport e weSpoort coprono esclusivamente il settore sportivo e molti di questi non sono neanche così ottimi. Inoltre non offrono prezzi agevolati per piccole società. mySociety si differenzia per target universale, con piani appositi per società più piccole con pochi associati e funzionalità avanzate con plugin personalizzati per società più grandi. 
 
 **Perché noi:** <br>
-&nbsp; Idea chiara con focus sulla fetta di mercato libero: catturiamo la fetta di piccole società che oggi usano solo WhatsApp e Excel, offrendo un'esperienza semplice ed economica per le società piccole, allo stesso tempo alternative con Plugin Personalizzati e piani Enterprise per Società e Associazioni piu grandi. 
+Idea chiara con focus sulla fetta di mercato libero: catturiamo la fetta di piccole società che oggi usano solo WhatsApp e Excel, offrendo un'esperienza semplice ed economica per le società piccole, allo stesso tempo alternative con Plugin Personalizzati e piani Enterprise per Società e Associazioni piu grandi. 
 
 **Richiesta:** <br>
-&nbsp; Cerchiamo €100.000  in cambio del 15%  per completare sviluppo, noleggio web server, lancio commerciale (pubblicità) e acquisizione primi 1000 clienti entro 12 mesi.
+Cerchiamo €100.000  in cambio del 15%  per completare sviluppo, noleggio web server, lancio commerciale (pubblicità) e acquisizione primi 1000 clienti entro 12 mesi.
 
 
 <img width="1895" height="468" alt="mySociety_deck_preview" src="https://github.com/user-attachments/assets/986e9545-bda6-40d4-94be-e2ec432e7e70" />
