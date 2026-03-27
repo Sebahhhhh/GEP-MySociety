@@ -29,27 +29,27 @@ Società e Associazioni di piccole, medie dimensioni. Soprattutto società sport
 ---
 
 # Tecnologie Utilizzate:
-##  Frontend Mobile
+  Frontend Mobile
 - **Framework**
 - **UI/UX**
 
-##  Backend
+  Backend
 - **Runtime:** Node.js
 - **Framework**
 - **Architettura:** REST API scalabile
 
-##  Database
+  Database
 - **MySQL**
 
-##  Autenticazione & Sicurezza
+  Autenticazione & Sicurezza
 - **Autenticazione:** JWT
 
-##  Cloud & Infrastruttura
+  Cloud & Infrastruttura
 - **Cloud Provider:** AWS / Google Cloud
 - **Storage:** AWS S3 / Firebase Storage *(per file e media)*
 - **Deploy Backend:** Docker + servizi cloud (EC2 / Cloud Run)
 
-##  Integrazioni
+  Integrazioni
 - **Pagamenti:** Stripe
 
 
