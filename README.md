@@ -39,10 +39,10 @@ Società e Associazioni di piccole, medie dimensioni. Soprattutto società sport
      -Framework <br>
      -Architettura REST API scalabile <br>
 
-**Database:**
+**Database:** <br>
       -MySQL <br>
 
-**Autenticazione & Sicurezza:**
+**Autenticazione & Sicurezza:** <br>
       -Autenticazione JWT <br>
 
 **Cloud & Infrastruttura:** <br>
@@ -50,7 +50,7 @@ Società e Associazioni di piccole, medie dimensioni. Soprattutto società sport
       -Storage: AWS S3 / Firebase Storage (per file e media) <br>
       -Deploy Backend: Docker + servizi cloud (EC2 / Cloud Run) <br>
 
-**Integrazioni:**
+**Integrazioni:** <br>
       -Pagamenti: Stripe <br>
 
 ---
