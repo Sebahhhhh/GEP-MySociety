@@ -36,7 +36,7 @@ Società e Associazioni di piccole, medie dimensioni. Soprattutto società sport
 
 **Backend:** <br>
   &nbsp;  &nbsp; -Runtime: Node.js <br>
-   &nbsp;  &nbsp;-Framework <br>
+   &nbsp;  &nbsp; -Framework <br>
   &nbsp;  &nbsp; -Architettura REST API scalabile <br>
 
 **Database:** <br>
